@@ -1,5 +1,5 @@
 ### Hi, I'm Berkan👋🏻.
-#### I'm actually an architect, but one day I wanted to build my own app and here we are. I think you are wondering about the connection between these two professions. Architecture and mobile application development have a lot more in common than you might think. I can give examples of user experience, design decisions and effectiveness.
+#### I'm actually an architect, but one day I wanted to build my own app and here we are. I think you are wondering about the connection between these two professions. Architecture and mobile application development have a lot more in common than you might think. For example user experience, design decisions and effectiveness etc.
 #### I've been developing iOS for three years and now I'm learning flutter. If you want to contact me and say hello do not hesitate.
 #### That is my e-mail. <berkan.vay@gmail.com>
 
