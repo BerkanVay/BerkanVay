@@ -1,10 +1,59 @@
-### Hi, I'm Berkan👋🏻.
-I'm  an iOS developer at BlindID., actually I was an architect, one day I wanted to build my own app and here we are. I think you are wondering about the connection between these two professions. Architecture and mobile application development have a lot more in common than you might think. For example user experience, design decisions and effectiveness etc.
-<br />
-<br />I've been developing iOS for three years and now I'm learning flutter. If you want to contact me and say hello do not hesitate.
-<br />
-<br />This is my e-mail. <berkan.vay@gmail.com>
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BerkanVay?tab=repositories) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/berkanvay/) 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkan-vay/) 
+## 🧰 Tech Stack
+
+### 🚀 Languages & Platforms
+- **Swift** (Advanced)
+- **Dart** (Intermediate)
+- **Objective-C** (Basic)
+- **Flutter** (Cross-platform)
+
+### 📱 iOS Development
+- **UIKit** – Custom layouts, animation, gesture handling
+- **SwiftUI** – Declarative UI, MVVM, data flow
+- **Combine** – Reactive programming with publishers & subscribers
+- **Core Data** – Local persistence
+- **Core Animation** – High-performance animations
+- **Core Location** – Location services
+- **MapKit** – Map integration and overlays
+- **AVFoundation** – Audio/video handling
+- **Push Notifications & NotificationCenter**
+- **URLSession** – REST API & networking
+
+### 🔄 Real-Time & Communication
+- **LiveKit** – Real-time audio/video streaming (WebRTC-based)
+- **QuickBlox** – Chat, video calling, backend messaging
+- **Centrifugo** – WebSocket-based pub/sub server for real-time data
+
+### 🛠 Architecture & Patterns
+- **MVVM**, **MVC**, **Coordinator Pattern**
+- **Clean Architecture**, **SOLID Principles**
+- **Dependency Injection** (Swinject, Resolver, Factory pattern)
+- **Protocol-Oriented Programming**
+
+### 📦 Third-Party Libraries
+- **Alamofire** – Networking
+- **SnapKit** / **AutoLayout** – UI constraints
+- **Kingfisher** / **SDWebImage** – Image caching
+- **Firebase** – Auth, Firestore, Crashlytics, Analytics
+- **Lottie** – JSON-based animations
+- **SwiftLint** – Code quality & styling
+- **Socket.IO** – Real-time communication
+
+### 🧪 Testing
+- **XCTest**, **XCUITest**
+- **Quick/Nimble**
+- **Mocking**, **Unit/UI Testing**
+
+### ⚙️ DevOps & CI/CD
+- **Fastlane** – Automated build, test & deploy
+- **Bitrise**, **GitHub Actions** – CI/CD pipelines
+- **TestFlight** – Beta app distribution
+
+### 🎨 Design & Collaboration
+- **Figma** – Design collaboration
+- **Zeplin**, **Sketch** – UI handoff
+
+### 🧾 Project & Code Management
+- **Git**, **GitHub** – Version control, PR reviews
+- **Jira**, **Trello**, **Notion**
+- **Agile**, **Scrum** methodology
