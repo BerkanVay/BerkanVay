@@ -13,6 +13,22 @@ I've been professionally developing iOS apps since **2020**, and recently I've b
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BerkanVay&show_icons=true&theme=tokyonight" alt="Berkan's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BerkanVay&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkanVay&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
 ## 🚀 Current Role
 
 At **BlindID**, I'm part of the mobile team, where we recently led a **major migration from UIKit to SwiftUI**. This experience deepened my understanding of:
@@ -94,22 +110,6 @@ Feel free to reach out — I love talking about apps, design, transitions in tec
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BerkanVay?tab=repositories)  
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/berkanvay/)  
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkan-vay/)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BerkanVay&show_icons=true&theme=tokyonight" alt="Berkan's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BerkanVay&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkanVay&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
 
 ---
 
