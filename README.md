@@ -1,7 +1,4 @@
 # Hi, I'm Berkan 👋🏻  
-iOS Developer **@BlindID** | Former Architect Turned App Builder
-
----
 
 ## 👨🏻‍💻 About Me
 
